@@ -1,4 +1,4 @@
 # JanesClothingDataAware
 -----
 
-This Application is been created for a clothing sale business to add and maintain the data.
+Janes CLothing Shop needed a simple application to store and maintan the details of her customers and her products.
